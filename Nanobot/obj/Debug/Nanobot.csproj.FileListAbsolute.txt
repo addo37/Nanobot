@@ -1,0 +1,6 @@
+c:\users\addo\documents\visual studio 2015\Projects\Nanobot\Nanobot\bin\Debug\Nanobot.exe.config
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\Nanobot\Nanobot\bin\Debug\Nanobot.exe
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\Nanobot\Nanobot\bin\Debug\Nanobot.pdb
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\Nanobot\Nanobot\obj\Debug\Nanobot.csprojResolveAssemblyReference.cache
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\Nanobot\Nanobot\obj\Debug\Nanobot.exe
+C:\Users\Addo\Documents\Visual Studio 2015\Projects\Nanobot\Nanobot\obj\Debug\Nanobot.pdb
